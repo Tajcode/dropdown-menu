@@ -1,0 +1,9 @@
+<style>
+    </dropdown>
+    </dropdown:before {
+        content: "+";
+    }
+    dropdown[expanded]:before{
+        content: "-"
+    }
+</style>
